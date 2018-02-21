@@ -1,0 +1,15 @@
+h1 {
+    background-color:lightgray;
+    margin-left:50px;
+    margin-right:50px;
+    text-align:center;
+    padding-top:50px;
+    padding-bottom:50px;
+}
+body {
+    background-color:skyblue;
+}
+
+para {
+    border:5px;
+}
